@@ -4,7 +4,7 @@ Le référentiel est créé lorsque vous travaillez sur la vidéo YouTube suivan
 
 **J'apprécie vraiment si vous aimez et partagez la vidéo et si vous trouvez mon contenu utile, cliquez sur**
 
-[<img src="sabonner.png" width="300">](https://www.youtube.com/channel/UC4o6gBv71UMlwlQSLzm8blw/featured)
+[<img style="padding:0px; margin:0px" src="sabonner.png" width="300">](https://www.youtube.com/channel/UC4o6gBv71UMlwlQSLzm8blw/featured)
 
 ## Table des matières
 
