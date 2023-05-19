@@ -1,10 +1,10 @@
-# Feuille de route des Développeur PHP
+# Feuille de route du développeur PHP
 Ceci est la feuille de route du développeur PHP. Suivre cette voie garantira de devenir un bon développeur PHP.
 Le référentiel est créé lorsque vous travaillez sur la vidéo YouTube suivante [Feuille de route des développeurs PHP - Comment devenir développeur PHP en 2023](https://www.youtube.com/channel/UC4o6gBv71UMlwlQSLzm8blw/featured).
 
 **J'apprécie vraiment si vous aimez et partagez la vidéo et si vous trouvez mon contenu utile, cliquez sur**
 
-[<img src="https://pngimg.com/uploads/subscribe/subscribe_PNG46.png" width="300">](https://www.youtube.com/channel/UC4o6gBv71UMlwlQSLzm8blw/featured)
+[<img src="sabonner.png" width="300">](https://www.youtube.com/channel/UC4o6gBv71UMlwlQSLzm8blw/featured)
 
 ## Table des matières
 
@@ -14,7 +14,7 @@ Le référentiel est créé lorsque vous travaillez sur la vidéo YouTube suivan
 4. **[Les bases du Javascript](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript)**
 5. **[Introduction aux bases de données](https://github.com/thecodeholic/php-developer-roadmap#introduction-to-databases)**
 6. **[Système de contrôle de version (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
-7. **[Se familiariser avec PHP : Syntaxe, fonctions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
+7. **[Se familiariser avec PHP : Syntaxe, fonctions, dates, JSON, File System, CRUD, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
 8. **[Comprendre Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
 9. **[Projets débutants en PHP](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
 10. **[PHP programmation orienté objet](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
