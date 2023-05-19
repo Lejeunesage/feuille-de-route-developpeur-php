@@ -1,32 +1,32 @@
-# PHP Developer roadmap
-This is PHP Developer Roadmap. Following this path will guarantee to become a good PHP Developer.
-The repository is created when working on the following YouTube video [PHP Developer roadmap - How to Become a PHP Developer in 2021](https://youtu.be/r9ndOH0tyfA).
+# Feuille de route des Développeur PHP
+Ceci est la feuille de route du développeur PHP. Suivre cette voie garantira de devenir un bon développeur PHP.
+Le référentiel est créé lorsque vous travaillez sur la vidéo YouTube suivante [Feuille de route des développeurs PHP - Comment devenir développeur PHP en 2023](https://www.youtube.com/channel/UC4o6gBv71UMlwlQSLzm8blw/featured).
 
-**Really appreciate if you like and share the video and if you find my content useful click on**
+**J'apprécie vraiment si vous aimez et partagez la vidéo et si vous trouvez mon contenu utile, cliquez sur**
 
 [<img src="https://pngimg.com/uploads/subscribe/subscribe_PNG46.png" width="300">](https://www.youtube.com/channel/UC4o6gBv71UMlwlQSLzm8blw/featured)
 
-## Table of Contents
+## Table des matières
 
-1. **[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**
-2. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**
-3. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
-4. **[Basics of Javascript](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript)**
-5. **[Introduction to Databases](https://github.com/thecodeholic/php-developer-roadmap#introduction-to-databases)**
-6. **[Version Control System (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
-7. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
-8. **[Understanding Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
-9. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
-10. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
-11. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
-12. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
-13. **[What is API](https://github.com/thecodeholic/php-developer-roadmap#what-is-api)**
-14. **[Learn Existing Framework](https://github.com/thecodeholic/php-developer-roadmap#learn-existing-framework)**
-15. **[Learn JavaScript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
-16. **[Basics of JavaScript Frameworks](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript-frameworks)**
-17. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-existing-frameworks)**
-18. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
-19. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**
+1. **[Comment fonctionnent internet et les sites webs](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**
+2. **[Flux de requêtes navigateur/serveur, protocole HTTP, codes status](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**
+3. **[Les bases du HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
+4. **[Les bases du Javascript](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript)**
+5. **[Introduction aux bases de données](https://github.com/thecodeholic/php-developer-roadmap#introduction-to-databases)**
+6. **[Système de contrôle de version (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
+7. **[Se familiariser avec PHP : Syntaxe, fonctions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
+8. **[Comprendre Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
+9. **[Projets débutants en PHP](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
+10. **[PHP programmation orienté objet](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
+11. **[Construire des projets](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
+12. **[Créer un framework MVC personnalisé](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
+13. **[Qu'est-ce que l'API ?](https://github.com/thecodeholic/php-developer-roadmap#what-is-api)**
+14. **[Apprendre les Framework existant](https://github.com/thecodeholic/php-developer-roadmap#learn-existing-framework)**
+15. **[Apprendre JavaScript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
+16. **[Principes de base des Frameworks JavaScript](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript-frameworks)**
+17. **[Construire des projets avec des frameworks existants](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-existing-frameworks)**
+18. **[Familiarisez-vous avec Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
+19. **[Éditeurs/IDE](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**
 20. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
 21. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
 ------
